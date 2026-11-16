@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Workspace displays",
+    "description": "Adds a \"Shown workspaces\" section to the sidebar's view-options menu (the sliders button at the top-right of the Workspaces list). Each workspace has a row there; a trailing check means it is shown. Removing the check hides that workspace's group from the sidebar list, and checking it again — or \"Show all workspaces\" — brings it back. Hidden workspaces stay registered; their sessions, history and paths are untouched, and the choice is saved in this browser. Turning the plugin off restores every workspace. In Workspace Tree grouping a hidden parent also hides its children; the flat session list, search results and the workspace picker are not filtered.",
+    "detail": "docs/DETAIL.md"
+  }
+}
